@@ -1,0 +1,163 @@
+{
+  "total_stories": 49,
+  "total_score": 10163,
+  "total_comments": 4090,
+  "average_score": 207.41,
+  "average_comments": 83.47,
+  "highest_engagement": 1891,
+  "top_story": "\u201cI just chose words carefully\u201d",
+  "top_domains": [
+    {
+      "domain": "unsung.aresluna.org",
+      "stories": 1,
+      "total_score": 1205,
+      "total_comments": 343,
+      "total_engagement": 1891
+    },
+    {
+      "domain": "macrumors.com",
+      "stories": 1,
+      "total_score": 420,
+      "total_comments": 465,
+      "total_engagement": 1350
+    },
+    {
+      "domain": "playaphone.com",
+      "stories": 1,
+      "total_score": 644,
+      "total_comments": 211,
+      "total_engagement": 1066
+    },
+    {
+      "domain": "youtube.com",
+      "stories": 2,
+      "total_score": 777,
+      "total_comments": 105,
+      "total_engagement": 987
+    },
+    {
+      "domain": "fastpotify.rocks",
+      "stories": 1,
+      "total_score": 438,
+      "total_comments": 235,
+      "total_engagement": 908
+    },
+    {
+      "domain": "openshot.org",
+      "stories": 1,
+      "total_score": 567,
+      "total_comments": 132,
+      "total_engagement": 831
+    },
+    {
+      "domain": "rockpapershotgun.com",
+      "stories": 1,
+      "total_score": 422,
+      "total_comments": 173,
+      "total_engagement": 768
+    },
+    {
+      "domain": "jasontucker.blog",
+      "stories": 1,
+      "total_score": 511,
+      "total_comments": 125,
+      "total_engagement": 761
+    },
+    {
+      "domain": "github.com",
+      "stories": 6,
+      "total_score": 462,
+      "total_comments": 147,
+      "total_engagement": 756
+    },
+    {
+      "domain": "signalandsilence.substack.com",
+      "stories": 1,
+      "total_score": 353,
+      "total_comments": 196,
+      "total_engagement": 745
+    }
+  ],
+  "top_keywords": [
+    {
+      "keyword": "open-source",
+      "frequency": 3
+    },
+    {
+      "keyword": "video",
+      "frequency": 3
+    },
+    {
+      "keyword": "apple",
+      "frequency": 2
+    },
+    {
+      "keyword": "mac",
+      "frequency": 2
+    },
+    {
+      "keyword": "phone",
+      "frequency": 2
+    },
+    {
+      "keyword": "all",
+      "frequency": 2
+    },
+    {
+      "keyword": "cameras",
+      "frequency": 2
+    },
+    {
+      "keyword": "world",
+      "frequency": 2
+    },
+    {
+      "keyword": "files",
+      "frequency": 2
+    },
+    {
+      "keyword": "over",
+      "frequency": 2
+    },
+    {
+      "keyword": "work",
+      "frequency": 2
+    },
+    {
+      "keyword": "launch",
+      "frequency": 2
+    },
+    {
+      "keyword": "s26",
+      "frequency": 2
+    },
+    {
+      "keyword": "built",
+      "frequency": 2
+    },
+    {
+      "keyword": "google",
+      "frequency": 2
+    },
+    {
+      "keyword": "robotics",
+      "frequency": 2
+    },
+    {
+      "keyword": "lake",
+      "frequency": 2
+    },
+    {
+      "keyword": "just",
+      "frequency": 1
+    },
+    {
+      "keyword": "chose",
+      "frequency": 1
+    },
+    {
+      "keyword": "words",
+      "frequency": 1
+    }
+  ]
+}
