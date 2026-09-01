@@ -12,7 +12,7 @@ The project uses the public Hacker News API as its live data source.
 ## Project structure
 
 ```text
-trendpulse-yourname/
+trendpulse-aashrith/
 │
 ├── task1_data_collection.py
 ├── task2_data_processing.py
